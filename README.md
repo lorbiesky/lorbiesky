@@ -7,7 +7,7 @@
 
 Meu nome é João Victor, sou estudante de Jogos Digitais e amante da tecnologia.
 
-- 📌 Desenvolvedor da **Lorbytech**.
+- 📌 Desenvolvedor da **Otontech**.
 - 📒 Techs: React.js, React Native, Node.js, JavaScript , entre outras.
 - 📚 Estudying Deep Learning, OpenCV and Big Data
 
