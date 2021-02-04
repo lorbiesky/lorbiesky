@@ -2,12 +2,11 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lorbiesky)](https://github.com/lorbiesky)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaolorbiesky/)](https://www.linkedin.com/in/joaolorbiesky/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.joaovictordias@gmail.com)](mailto:contato.joaovictordias@gmail.com)
 
 
-Meu nome é João Victor, sou estudante de Jogos Digitais e amante da tecnologia.
+Meu nome é João Victor, sou apaixonado por Jogos Digitais e amante da tecnologia.
 
-- 📌 Desenvolvedor da **Otontech**.
+- 📌 Desenvolvedor **FullStack**.
 - 📒 Techs: React.js, React Native, Node.js, JavaScript , entre outras.
 - 📚 Estudying Deep Learning, OpenCV and Big Data
 
