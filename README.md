@@ -7,6 +7,7 @@
 Meu nome é João Victor, sou apaixonado por Jogos Digitais e amante da tecnologia.
 
 - 📌 Desenvolvedor **FullStack**.
+- 👨‍🎓 Estudante de Engenharia da Computação na Faculdade Descomplica.
 - 📒 Techs: React.js, React Native, Node.js, JavaScript , entre outras.
 - 📚 Estudying Deep Learning, OpenCV and Big Data
 
