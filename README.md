@@ -5,7 +5,7 @@
 
 🚀 **Desenvolvedor Fullstack** apaixonado por tecnologia e inovação.  
 Trabalho principalmente com **React, TypeScript e Node.js**, criando aplicações web escaláveis e performáticas.  
-Tenho experiência com **React Query, Zustand e Shadcn UI**, além de um grande interesse em desenvolvimento de jogos, estudando **Godot Engine**.  
+Tenho experiência com **React Query, Zustand e Shadcn UI**, além de um grande interesse em desenvolvimento de jogos..  
 
 
 ### 🎯 O que me motiva?
